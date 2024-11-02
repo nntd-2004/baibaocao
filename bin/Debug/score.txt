@@ -1,0 +1,11 @@
+1 Anonymous 2100
+2 do 1400
+3 Anonymous 1000
+4 Anonymous 300
+5 do 200
+6 Anonymous 0
+7 Anonymous 0
+8 Anonymous 0
+9 Anonymous 0
+10 Anonymous 0
+
